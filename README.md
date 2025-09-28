@@ -1,17 +1,6 @@
 # Data Science Degree Year 3
 
-## Reading List
+This is a repo of the work and notes from the third year of my Data Science Degree at Bangor University, the repo is split into the module with a separte README file for each module.
 
-**Five Design-sheets: Creative Design and Sketching for Computing and Visualisation** by Jonathan C. Roberts, Christopher J. Headleand and Panagiotis D. Ritsos
-
-*ISBN 978-3-319-55626-0e-ISBN 978-3-319-55627-7*
-
-**Information Visualization: Perception for Design** by Colin Ware
-
-ISBN 978-0-12-381464-7*
-
-## Assessments
-There are 3 assessments
-* A1 - Data CIV. This is the Data Composition and Insight Report | Due: 13/11/2025, 16:00
-* A2 - Design. This is a technical report of your design study (using the Five Design Sheet method) | Due: 04/12/2025, 16:00
-* A3 - Poster and report. You create a visualisation poster and critique your work using the Critical Design Strategy (CDS) | Due: 15/01/2026, 16:00
+### ICE-3122-0 Information Visualisation
+https://github.com/tobybeevers/Data-Science-Degree-Y3/blob/main/ICE-3122-0%20Information%20Visualisation/readme.md
