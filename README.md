@@ -1,1 +1,1 @@
-# DataScienceDegreeY3
+# Data Science Degree Year 3
